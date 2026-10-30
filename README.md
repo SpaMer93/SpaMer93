@@ -12,7 +12,7 @@ Una aclaración por si alguien llega esperando otra cosa: lo de optimizar modelo
 
 | Repo | De qué va |
 |---|---|
-| [hermes-face](https://github.com/SpaMer93/hermes-face) | Un rostro para mi agente en un teléfono dedicado: dieciséis emociones con física, voz de ida y vuelta, y un turno de 4,8 segundos. |
+| [hermes-face](https://github.com/SpaMer93/hermes-face) | Un rostro para mi agente en un teléfono dedicado: dieciséis emociones con física y un turno de voz en 4,8 segundos. En pausa, porque la voz clonada no quedó como quería. |
 | [hermes-inventory](https://github.com/SpaMer93/hermes-inventory) | Inventario de almacén con fotos: el modelo propone, el operador confirma. Funciona sin señal y nunca inventa un resultado. |
 | [passbolt-selfhosted](https://github.com/SpaMer93/passbolt-selfhosted) | Gestor de contraseñas auto-hospedado para un equipo, con respaldo verificado y una recuperación probada en un apagón real. |
 | [renascor-hub](https://github.com/SpaMer93/renascor-hub) | Portal que indexa 643 documentos de 18 proyectos y contesta "¿en qué quedó esto?" sin adivinar. |
