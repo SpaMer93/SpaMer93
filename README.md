@@ -2,7 +2,7 @@
 
 ### Construyo herramientas para mí, y algunas terminan sirviéndole a otros
 
-No tengo equipo ni empresa. Tengo una computadora, un teléfono viejo en un cajón y una lista larga de cosas que siempre quise hacer. Casi todo lo que hay aquí empezó como un "¿y si lo intento?" un fin de semana, y se quedó porque resolvía algo que me estorbaba: el almacén que nadie controlaba, un agente de IA sin cara, dieciocho proyectos que no me cabían en la cabeza.
+No tengo equipo, ni empresa. Tengo una computadora, un teléfono viejo en un cajón y una lista larga de cosas que siempre quise hacer. Casi todo lo que hay aquí empezó como un "¿y si lo intento?" un fin de semana, y se quedó porque resolvía algo que me estorbaba: el almacén que nadie controlaba, un agente de IA sin cara, dieciocho proyectos que no me cabían en la cabeza.
 
 A esto llegué desde otro lado: soporte técnico, redes, seguridad. Sin un plan de carrera y sin permiso de nadie, aprendiendo a prueba, error y a las tres de la mañana. Sigo igual, con la diferencia de que ahora sé medir lo que hago.
 
